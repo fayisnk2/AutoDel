@@ -21,7 +21,7 @@
       "description": "Your telegram API HASH, Get it from my.telegram.org",
       "value": ""
     },
-    "SESSION":{
+    "STRING_SESSION":{
       "description": "Pyrogram session generated from the link in Readme",
       "value": ""
     },
